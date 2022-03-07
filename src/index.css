@@ -1,0 +1,41 @@
+.window {
+  width: 500px;
+  border: 1px solid black;
+  background: yellow;
+}
+
+.head {
+  text-align: center;
+  padding: 10px;
+}
+
+.positionInput {
+  text-align: center;
+  padding: 10px;
+}
+
+.input {
+  height: 40px;
+}
+
+.positionButton {
+  text-align: center;
+}
+
+.button {
+  height: 50px;
+  width: 100px;
+  color: white;
+  background: black;
+  border-radius: 3px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background: purple;
+}
+
+.bot_text {
+  font-size: 15px;
+  font-style: oblique;
+}
